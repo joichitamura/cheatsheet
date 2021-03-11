@@ -1,0 +1,39 @@
+*{
+    background-color:black;
+    color: seashell;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h1 {
+    text-align: center;
+
+}
+
+h2{
+    text-align: center;
+    color: slategrey;
+    margin-top: 50px;
+}
+
+table {
+    border: 1px solid snow;
+    width: 700px;
+    margin-top: 20px;
+}
+
+th {
+    background-color: tan;
+    margin: 5px
+}
+
+td {
+    border: 0.5px dotted tan;
+}
+
+footer{
+    text-align: left;
+    font-size: small;
+    margin: 100px 0px 0px 20px;
+
+}
